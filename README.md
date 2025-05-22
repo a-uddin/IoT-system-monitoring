@@ -54,7 +54,7 @@
 
 <h2>📌 Diagram</h2>
 <p>
-  <img src="https://github.com/a-uddin/IoT-system-monitoring/assets/diagram.png" alt="Architecture Diagram" width="600">
+  <img src="https://github.com/a-uddin/IoT-system-monitoring/blob/main/IoT-Architecture.png" width="600">
 </p>
 
 <h2>📬 Contact</h2>
